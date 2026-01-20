@@ -1,0 +1,23 @@
+{
+  "php_path": "pages/page-{name}.php",
+  "css_path": "assets/css/pages/page-{name}.css",
+  "trigger_keyword": "頁面",
+  "class_naming": "bem",
+  "append_mode": true,
+  "seo": {
+    "button_tag": "<a href=\"#\" class=\"{class}\">{text}</a>",
+    "remove_empty_div": true,
+    "semantic_tags": true
+  },
+  "css_remove": [
+    "font-size",
+    "line-height", 
+    "font-family",
+    "font-weight",
+    "left",
+    "top",
+    "position",
+    "width",
+    "height"
+  ]
+}

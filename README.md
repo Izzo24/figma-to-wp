@@ -1,13 +1,13 @@
-# Figma to WordPress Agent
+# Figma 轉 WordPress 代理
 
-A Claude Code agent that converts Figma designs to WordPress themes.
+一個將 Figma 設計轉換為 WordPress 主題的 Claude Code 代理。
 
-## Files
+## 檔案說明
 
-- `parser.py` - Python script for parsing Figma design data
-- `config.json` - Agent configuration
-- `SKILL.md` - Skill documentation and instructions
+- `parser.py` - 解析 Figma 設計資料的 Python 腳本
+- `config.json` - 代理設定檔
+- `SKILL.md` - 技能文件與使用說明
 
-## Usage
+## 用途
 
-This agent helps automate the conversion of Figma designs into WordPress theme files.
+此代理可協助自動將 Figma 設計轉換為 WordPress 主題檔案。
